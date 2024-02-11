@@ -62,8 +62,8 @@ https://academy.hackthebox.com/module/details/90
 ### Reconnaissance
 
 * How to Use OWASP Amass: An Extensive Tutorial : searching ASN\
-https://github.com/six2dez/pentest-book/blob/master/recon/public-info-gathering.md#general--aio\
-https://www.dionach.com/how-to-use-owasp-amass-an-extensive-tutorial/\
+https://github.com/six2dez/pentest-book/blob/master/recon/public-info-gathering.md#general--aio \
+https://www.dionach.com/how-to-use-owasp-amass-an-extensive-tutorial/ \
 https://github.com/owasp-amass/amass
 
 * Footprinting\
