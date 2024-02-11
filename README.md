@@ -1,6 +1,9 @@
 # RedTeam_Medium
 
+
 ### Fundamentals
+
+
 
 #### Linux
 
@@ -19,6 +22,8 @@ https://academy.hackthebox.com/course/preview/network-enumeration-with-nmap
 * MacOS Fundamentals\
 https://academy.hackthebox.com/module/details/157
 
+
+
 #### Windows
 
 * Windows Fundamentals\
@@ -36,7 +41,10 @@ https://academy.hackthebox.com/course/preview/web-requests
 * Introduction to Web Applications\
 https://academy.hackthebox.com/module/details/75
 
+
+
 #### Introduction to CODE ####
+
 
 * Introduction to Python 3\
 https://academy.hackthebox.com/module/details/88
@@ -46,10 +54,17 @@ https://academy.hackthebox.com/module/details/21
 
 ## Penetration Testing Process
 
+
 #### Penetration Testing Process
 https://academy.hackthebox.com/module/details/90
 
+
 ### Reconnaissance
+
+* How to Use OWASP Amass: An Extensive Tutorial : searching ASN\
+https://github.com/six2dez/pentest-book/blob/master/recon/public-info-gathering.md#general--aio\
+https://www.dionach.com/how-to-use-owasp-amass-an-extensive-tutorial/\
+https://github.com/owasp-amass/amass
 
 * Footprinting\
 https://academy.hackthebox.com/module/details/112
@@ -113,6 +128,7 @@ https://academy.hackthebox.com/module/details/158
     * Double Pivoting for Newbies with Ligolo-ng\
     https://systemweakness.com/double-pivoting-for-newbies-with-ligolo-ng-4177b3f1f27b
     
+
 ### WEB 
 
 * Using Web Proxies\
@@ -148,6 +164,7 @@ https://academy.hackthebox.com/module/details/113\
 * File Upload Attacks\
 https://academy.hackthebox.com/module/136/section/1260
 
+
 ### Post-Exploitation
 
 ### Cracking Passwords
@@ -161,6 +178,9 @@ https://academy.hackthebox.com/module/details/51
 
 * Windows Privilege Escalation\
 https://academy.hackthebox.com/module/details/67
+
+
+
 
 ### Active Directory
 
@@ -236,11 +256,15 @@ https://mayfly277.github.io/posts/GOADv2-pwning-part12/
 * GOAD - part 13 - Having fun inside a domain\
 https://mayfly277.github.io/posts/GOADv2-pwning-part13/
 
+
 * [Linux Active Directory](https://swisskyrepo.github.io/PayloadsAllTheThingsWeb/Methodology%20and%20Resources/Active%20Directory%20Attack/#linux-active-directory)
+
 
 ##### Additional materials:
 * Active Directory pentest mindmaps\
 https://orange-cyberdefense.github.io/ocd-mindmaps/\
+
+
 
 ### Lateral Movement
 
