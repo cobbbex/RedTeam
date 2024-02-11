@@ -1,4 +1,4 @@
-# RedTeam_Mediu
+# RedTeam_Medium
 
 ### Fundamentals
 
