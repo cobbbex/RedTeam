@@ -16,9 +16,6 @@ https://academy.hackthebox.com/course/preview/introduction-to-networking
     * Intro to Network Traffic Analysis\
     https://academy.hackthebox.com/module/details/81
 
-* Network Enumeration with Nmap\
-https://academy.hackthebox.com/course/preview/network-enumeration-with-nmap
-
 * MacOS Fundamentals\
 https://academy.hackthebox.com/module/details/157
 
@@ -84,6 +81,12 @@ https://academy.hackthebox.com/module/details/27\
 https://book.hacktricks.xyz/network-services-pentesting/pentesting-dns
 
 	* [Subdomain worldlists](https://wordlists.assetnote.io/)
+
+* Network Enumeration with Nmap\
+https://academy.hackthebox.com/course/preview/network-enumeration-with-nmap
+
+* Introduction to Nessus and Hands on Practice to Scan the Network\
+https://koayyongcett.medium.com/introduction-to-nessus-and-hands-on-practice-to-scan-the-network-34c8048090fc
 
 #### Vulnerability Assessment
 
