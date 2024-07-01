@@ -2,7 +2,7 @@
 
 ### Evilginx&GoPhish
 Phishing Engagement Infrastructure Setup Guide
-* https://github.com/An0nUD4Y/Evilginx-Phishing-Infra-Setup\
+* https://github.com/An0nUD4Y/Evilginx-Phishing-Infra-Setup
 
 
 * From Zero to Hero: Phishing Campaign. Part 1\
@@ -19,7 +19,7 @@ https://blog.onsec.io/from-zero-to-hero-phishing-company-final/
 
 #### Mind Maps:
 * Cyber Security Mindmap\
-https://github.com/An0nUD4Y/Mindmap\
+https://github.com/An0nUD4Y/Mindmap
 
 
 ### Fundamentals
