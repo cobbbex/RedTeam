@@ -3,7 +3,7 @@
 ### Additional material:
 
 #### Mind Maps:
-* Cyber Security Mindmap
+* Cyber Security Mindmap\
 https://github.com/An0nUD4Y/Mindmap\
 
 
