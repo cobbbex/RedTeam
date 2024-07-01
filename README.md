@@ -6,11 +6,11 @@ Phishing Engagement Infrastructure Setup Guide
 
 
 * From Zero to Hero: Phishing Campaign. Part 1\
-https://blog.onsec.io/from-zero-to-hero-phishing-campaign/\
+https://blog.onsec.io/from-zero-to-hero-phishing-campaign/
 * From Zero to Hero: Phishing Campaign. Part 2\
-https://blog.onsec.io/from-zero-to-hero-phishing-campaign-part-2/\
+https://blog.onsec.io/from-zero-to-hero-phishing-campaign-part-2/
 * From Zero to Hero: Phishing Campaign. Part 3\
-https://blog.onsec.io/from-zero-to-hero-phishing-company-final/\
+https://blog.onsec.io/from-zero-to-hero-phishing-company-final/
 
 
 # RedTeam
