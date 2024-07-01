@@ -1,7 +1,7 @@
 # Phishing
 
 ### Evilginx&GoPhish
-Phishing Engagement Infrastructure Setup Guide\
+Phishing Engagement Infrastructure Setup Guide
 * https://github.com/An0nUD4Y/Evilginx-Phishing-Infra-Setup\
 
 
