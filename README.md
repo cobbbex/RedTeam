@@ -19,6 +19,7 @@ https://blog.onsec.io/from-zero-to-hero-phishing-company-final/
 
 #### Mind Maps:
 * Cyber Security Mindmap\
+https://github.com/Ignitetechnologies/Mindmap
 https://github.com/An0nUD4Y/Mindmap
 
 
